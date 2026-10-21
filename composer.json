@@ -55,5 +55,5 @@
     "minimum-stability": "dev",
     "abandoned": "spatie/laravel-html",
     "prefer-stable": true,
-    "version": "6.4.1-hd1"
+    "version": "6.4.1.1"
 }
